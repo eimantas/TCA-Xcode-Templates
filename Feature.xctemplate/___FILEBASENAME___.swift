@@ -4,7 +4,7 @@ struct ___VARIABLE_feature___State: Equatable {
 
 }
 
-enum ___VARIABLE_feature___Action {
+enum ___VARIABLE_feature___Action: Equatable {
     
 }
 
